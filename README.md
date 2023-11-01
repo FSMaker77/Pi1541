@@ -36,7 +36,7 @@ https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads/7-2017-q4-m
 Building
 --------
 ```
-make
+make RASPPI=2 or COMPILA.CMD
 ```
 This will build kernel.img
 
