@@ -1,0 +1,8 @@
+*.o
+*.a
+*.elf
+*.img
+*.lst
+*.map
+*.swp
+

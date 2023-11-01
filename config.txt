@@ -1,0 +1,4 @@
+kernel_address=0x1f00000
+arm_freq=1300
+over_voltage=4
+force_turbo=1
